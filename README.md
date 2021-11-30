@@ -1,3 +1,2 @@
 # git_test
-Odin Project github repository
-Hello Odin!
+Test using git, github, and linux
